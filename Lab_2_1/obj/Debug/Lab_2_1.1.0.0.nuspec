@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab_2_1</id>
+    <version>1.0.0</version>
+    <authors>Lab_2_1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Visual Studio Projects\Lab_2_1\Lab_2_1\bin\Debug\net7.0\Lab_2_1.runtimeconfig.json" target="lib\net7.0\Lab_2_1.runtimeconfig.json" />
+    <file src="D:\Visual Studio Projects\Lab_2_1\Lab_2_1\bin\Debug\net7.0\Lab_2_1.dll" target="lib\net7.0\Lab_2_1.dll" />
+  </files>
+</package>
