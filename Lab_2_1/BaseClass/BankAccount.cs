@@ -17,7 +17,7 @@ namespace Lab_2_1.BaseClass
 
         public void ChangeStatus(AccountStatus newStatus) => Status = newStatus;
 
-        public void AddMoney(double amount) => Money = amount;
+        public void AddMoney(double amount) => Money += amount;
 
         public void ToggleBan()
         {
